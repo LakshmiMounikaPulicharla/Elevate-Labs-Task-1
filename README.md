@@ -10,7 +10,6 @@ This repository contains Task 1, which focuses on basic cybersecurity concepts s
 
 ## Files Included
 - TASK1.pdf – Written explanation of the task
-- Screenshots – Supporting images (if any)
 
 ## Tools Used
 - Google Docs / MS Word (for documentation)
